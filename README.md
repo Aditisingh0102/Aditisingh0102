@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey 👋, This is Aditi Singh</h1>
+  <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave" />, This is Aditi Singh</h1>
   <p><b>A passionate Full Stack Developer · B.Tech CSE '27 · Open Source Contributor</b></p>
 
   <p>
@@ -114,5 +114,7 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
     🧩 <a href="https://leetcode.com/Aditisingh_74/">LeetCode</a> &nbsp;·&nbsp;
     🐙 <a href="https://github.com/Aditisingh0102">GitHub</a>
   </p>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" alt="Happy Coding" />
+  <br />
   <sub>Always building, always learning · Uttaranchal University, Dehradun</sub>
 </div>
