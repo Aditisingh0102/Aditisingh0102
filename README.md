@@ -1,42 +1,154 @@
-<h1 align="center">Aditi Singh</h1> <p align="center"><b>Full Stack Developer · Software Developer</b></p> <p align="center"> Building reliable, scalable web applications with clean code and thoughtful design. </p> <p align="center"> <a href="https://www.linkedin.com/in/aditisingh0108"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:aditii.singh0102@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://leetcode.com/Aditisingh_74/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a> <img src="https://komarev.com/ghpvc/?username=Aditisingh0102&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"> </p>
-About
+<div align="center">
+  <img src="./assets/banner.jpg" alt="Aditi Singh Banner" width="100%" />
 
-I'm a Computer Science undergraduate with a strong foundation in data structures, algorithms, object-oriented programming, databases and operating systems. I enjoy working across the stack, from responsive user interfaces to secure, well-structured backend services.
+  <br />
 
-Full stack web development with REST APIs and JWT-based authentication
-Strong problem solving, with 500+ problems solved on LeetCode
-Open source contributor (GSSoC 2026)
-Open to Full Stack Developer and Software Developer roles
-Tech Stack
+  <h1>Hey 👋, This is Aditi Singh</h1>
+  <p><b>A passionate Full Stack Developer · B.Tech CSE '27 · Open Source Contributor</b></p>
 
-Languages
+  <p>
+    <a href="https://www.linkedin.com/in/aditisingh0108"><img src="https://img.shields.io/badge/LinkedIn-aditisingh0108-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/Aditisingh_74/"><img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://gssoc.girlscript.org/profile/"><img src="https://img.shields.io/badge/GSSoC%202026-Contributor-FF6B35?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="GSSoC 2026" /></a>
+    <a href="mailto:aditii.singh0102@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Aditisingh0102&label=Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+</div>
 
-Show Image Show Image Show Image Show Image Show Image
+---
 
-Frontend
+### 👩‍💻 About Me
 
-Show Image Show Image
+B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; currently in 7th Sem) at **Uttaranchal University, Dehradun**, India, with strong foundations in **DSA**, **OOP**, **DBMS**, and **Operating Systems**. I build scalable full-stack web applications using **React.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **REST APIs**, and **JWT authentication**, alongside working knowledge of **Java** and **Spring Boot**.
 
-Backend
+- 🔭 **Currently Building:** **DevSync** *(Student Collaboration Platform)* & **yourCONTEST** *(College LMS & Contest Platform)*
+- 🤝 **Open Source:** **GSSoC 2026** Selected Contributor with **3 merged pull requests** (`easemotion-css`, `internhack`)
+- 🏆 **Hackathon:** **Top 10 Finalist** out of 100+ teams at **FAR AWAY 2026** (*Hope — Secure Exam OS*)
+- 🧠 **Problem Solving:** **500+ LeetCode problems** solved across arrays, linked lists, stacks, queues, and trees
+- 🎯 **Looking For:** **Full Stack Developer** roles & impactful open-source collaborations
 
-Show Image Show Image Show Image Show Image
+---
 
-Databases
+### 🛠️ Languages and Tools
 
-Show Image Show Image Show Image
+**Languages** — `JavaScript (ES6+)` · `Java` · `SQL` · `HTML5` · `CSS3`
+<br />
+<img src="https://skillicons.dev/icons?i=js,java,mysql,html,css&theme=dark" alt="Languages" />
 
-Tools & Deployment
+**Frameworks & Libraries** — `React.js` · `Node.js` · `Express.js` · `Spring Boot` *(working knowledge)* · `FastAPI` · `Vite`
+<br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,fastapi,vite&theme=dark" alt="Frameworks and Libraries" />
 
-Show Image Show Image Show Image Show Image Show Image
+**Databases** — `MongoDB` · `MySQL` · `PostgreSQL`
+<br />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Databases" />
 
-Core Concepts: Data Structures & Algorithms · OOP · DBMS · Operating Systems · REST API Design · Authentication & Authorization
+**Cloud & Deployment** — `Cloudflare` · `Vercel`
+<br />
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel&theme=dark" alt="Cloud and Deployment" />
 
-GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aditisingh0102&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditisingh0102&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"> </p>
-Get in Touch
+**Tools & OS** — `Git` · `GitHub` · `VS Code` · `Arch Linux`
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arch&theme=dark" alt="Tools and OS" />
 
-I'm always happy to connect about opportunities, collaboration or open source.
+**Core Concepts & Systems**
+`REST APIs` · `JWT Authentication` · `OAuth` · `OOP` · `DSA` · `DBMS` · `Operating Systems (OS Basics)` · `ERP College-Email Auth` · `GTK4` · `PAM` · `GnuPG` · `ARIA Accessibility`
 
-📧 aditii.singh0102@gmail.com  |  💼 LinkedIn
+---
 
-<p align="center"><sub>My repositories showcase my work in detail.</sub></p>
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+
+  <a href="https://github.com/Aditisingh0102">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditisingh0102&theme=tokyo-night&hide_border=true&area=true" alt="Aditi's GitHub Activity Graph" width="100%" />
+  </a>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
+  <br />
+
+  <details>
+    <summary><b>✨ View More Live Workflow Stats (Pac-Man · Streak · Trophies)</b></summary>
+    <br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/pacman-contribution-graph-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/pacman-contribution-graph.svg" />
+      <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/pacman-contribution-graph-dark.svg" width="100%" />
+    </picture>
+    <br /><br />
+    <img src="https://streak-stats.demolab.com?user=Aditisingh0102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <br /><br />
+    <img src="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/trophy.svg" alt="GitHub Trophies" />
+  </details>
+</div>
+
+---
+
+### 🚀 Projects
+
+#### 🤝 DevSync — Skill-Based Student Collaboration Platform
+> **Major Project** · *Jan 2026 – Testing Phase*
+> **Stack:** `React.js` · `Node.js` · `FastAPI` · `PostgreSQL` · `JWT Auth`
+- Architected a full-stack platform solving skill-mismatch in college team formation; currently in final testing at **Uttaranchal University** — designed to scale to **10,000+ users**, with expansion to other colleges planned in future phases.
+- Built **React SPA → FastAPI backend → PostgreSQL** pipeline with **JWT + ERP college-email auth**; engineered team-matching engine, real-time dashboard, and project discovery feed.
+
+#### 🏆 yourCONTEST — College LMS & Contest Platform
+> *Aug 2026 – Ongoing*
+> **Stack:** `React.js (Vite)` · `Spring Boot` · `MySQL` / `PostgreSQL` · `JWT + OAuth`
+- Built a full-stack LMS for faculty to create aptitude/coding contests, manage courses & assignments, and review results.
+- Developed **React (Vite) + Spring Boot** application with **JWT/OAuth authentication**; in-browser compiler in development for live coding rounds.
+
+#### 🔐 Hope — Secure Exam OS
+> **FAR AWAY 2026 Hackathon Finalist** *(Top 10 out of 100+ teams)*
+> **Stack:** `Arch Linux` · `GTK4` · `PAM` · `GnuPG`
+- Built a secure exam OS preventing paper leaks and impersonation; led system architecture and kiosk lockdown. Awarded official Finalist Certificate.
+
+---
+
+### 🌍 Open Source Contributions
+
+- **GirlScript Summer of Code (GSSoC 2026) — Selected Contributor** *(May 2026 – Aug 2026)* · [GSSoC Profile](https://gssoc.girlscript.org/profile/)
+  - Merged **3 pull requests** across active open-source repositories (`easemotion-css`, `internhack`).
+  - Improved UI and accessibility by adding **animation utilities**, **ARIA labels**, and **hover/border effects**.
+
+---
+
+### 🎓 Education, Training & Certifications
+
+- **B.Tech – Computer Science & Engineering** — *Uttaranchal University, Dehradun* (`2023 – 2027`) · **CGPA: 8.4 / 10** *(after 6th Sem; currently in 7th Sem)*
+- **TCSiON Career Edge - Young Professional** — *Tata Consultancy Services* (`Jun 2025`)
+- **Full Stack Development** — *Simplilearn* (`Aug 2025`)
+- **Programming Using Java** — *Infosys Springboard* (`Jun 2025`)
+- **Software Engineering Simulation** — *Accenture Nordics* (`Jun 2025`)
+
+---
+
+### 🏅 Achievements & Profiles
+
+- 🧠 **500+ LeetCode Problems** solved across **arrays, linked lists, stacks, queues, and trees** — strengthening algorithmic thinking and problem-solving depth.
+- 🥇 **Hackathon Finalist** — **Top 10 out of 100+ teams** at **FAR AWAY 2026** (*Hope* Secure Exam OS).
+- 🌟 **GSSoC 2026** Selected Open Source Contributor.
+
+<div align="center">
+  <p>
+    📧 <a href="mailto:aditii.singh0102@gmail.com">aditii.singh0102@gmail.com</a> &nbsp;·&nbsp;
+    💼 <a href="https://www.linkedin.com/in/aditisingh0108">LinkedIn</a> &nbsp;·&nbsp;
+    🧩 <a href="https://leetcode.com/Aditisingh_74/">LeetCode</a> &nbsp;·&nbsp;
+    🐙 <a href="https://github.com/Aditisingh0102">GitHub</a>
+  </p>
+  <sub>Always building, always learning · Uttaranchal University, Dehradun</sub>
+</div>
