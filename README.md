@@ -25,7 +25,7 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
 - 🤝 **Open Source:** **GSSoC 2026** Selected Contributor with **3 merged pull requests** (`easemotion-css`, `internhack`)
 - 🏆 **Hackathon:** **Top 10 Finalist** out of 100+ teams at **FAR AWAY 2026** (*Hope — Secure Exam OS*)
 - 🧠 **Problem Solving:** **500+ LeetCode problems** solved across arrays, linked lists, stacks, queues, and trees
-- 🎯 **Looking For:** **Full Stack Developer** roles & impactful open-source collaborations
+- 🎯 **Looking For:** **Full Stack Developer Intern** · **Software Engineering Intern** roles & impactful open-source collaborations
 
 ---
 
