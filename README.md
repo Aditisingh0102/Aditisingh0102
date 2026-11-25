@@ -94,26 +94,6 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
 
 ---
 
-### 🚀 Projects
-
-#### 🤝 DevSync — Skill-Based Student Collaboration Platform
-> **Major Project** · *Jan 2026 – Testing Phase*
-> **Stack:** `React.js` · `Node.js` · `FastAPI` · `PostgreSQL` · `JWT Auth`
-- Architected a full-stack platform solving skill-mismatch in college team formation; currently in final testing at **Uttaranchal University** — designed to scale to **10,000+ users**, with expansion to other colleges planned in future phases.
-- Built **React SPA → FastAPI backend → PostgreSQL** pipeline with **JWT + ERP college-email auth**; engineered team-matching engine, real-time dashboard, and project discovery feed.
-
-#### 🏆 yourCONTEST — College LMS & Contest Platform
-> *Aug 2026 – Ongoing*
-> **Stack:** `React.js (Vite)` · `Spring Boot` · `MySQL` / `PostgreSQL` · `JWT + OAuth`
-- Built a full-stack LMS for faculty to create aptitude/coding contests, manage courses & assignments, and review results.
-- Developed **React (Vite) + Spring Boot** application with **JWT/OAuth authentication**; in-browser compiler in development for live coding rounds.
-
-#### 🔐 Hope — Secure Exam OS
-> **FAR AWAY 2026 Hackathon Finalist** *(Top 10 out of 100+ teams)*
-> **Stack:** `Arch Linux` · `GTK4` · `PAM` · `GnuPG`
-- Built a secure exam OS preventing paper leaks and impersonation; led system architecture and kiosk lockdown. Awarded official Finalist Certificate.
-
----
 
 ### 🌍 Open Source Contributions
 
