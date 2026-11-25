@@ -27,6 +27,10 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
 - 🧠 **Problem Solving:** **500+ LeetCode problems** solved across arrays, linked lists, stacks, queues, and trees
 - 🎯 **Looking For:** **Full Stack Developer Intern** · **Software Engineering Intern** roles & impactful open-source collaborations
 
+<p align="center">
+  <img src="./assets/banner.gif" alt="Aditi Coding Banner" width="100%" style="border-radius: 12px;" />
+</p>
+
 ---
 
 ### 🛠️ Languages and Tools
