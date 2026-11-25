@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Aditi Singh Banner" width="100%" />
-
-  <br />
-
   <h1>Hey 👋, This is Aditi Singh</h1>
   <p><b>A passionate Full Stack Developer · B.Tech CSE '27 · Open Source Contributor</b></p>
 
