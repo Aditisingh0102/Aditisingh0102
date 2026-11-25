@@ -59,11 +59,7 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
-  <a href="https://github.com/Aditisingh0102">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditisingh0102&theme=tokyo-night&hide_border=true&area=true" alt="Aditi's GitHub Activity Graph" width="100%" />
-  </a>
 
-  <br />
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
