@@ -57,18 +57,6 @@ B.Tech CSE undergraduate (`2023 – 2027`, **CGPA: 8.4 / 10** after 6th Sem; cur
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-
-
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
-  </picture>
-
-  <br />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditisingh0102/Aditisingh0102/output/github-contribution-grid-snake.svg" />
